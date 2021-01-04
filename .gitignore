@@ -1,0 +1,9 @@
+# eclipse
+.classpath
+.project
+.settings
+.npmcache
+.retry
+nohup.out
+errorShots/
+.DS_Store
